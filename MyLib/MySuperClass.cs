@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace MyLib
 {
-    public class Class1
+    public class MySuperClass
     {
+        public static string GetName()
+        {
+            return "Olivier avec deux I";
+        }
+
     }
 }
