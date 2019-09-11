@@ -1,9 +1,0 @@
-C:\Users\ochampion\source\repos\MyNugetPackage\MyNugetPackage\bin\Debug\MyNugetPackage.dll
-C:\Users\ochampion\source\repos\MyNugetPackage\MyNugetPackage\bin\Debug\MyNugetPackage.pdb
-C:\Users\ochampion\source\repos\MyNugetPackage\MyNugetPackage\obj\Debug\MyNugetPackage.csprojAssemblyReference.cache
-C:\Users\ochampion\source\repos\MyNugetPackage\MyNugetPackage\obj\Debug\MyNugetPackage.csproj.CoreCompileInputs.cache
-C:\Users\ochampion\source\repos\MyNugetPackage\MyNugetPackage\obj\Debug\MyNugetPackage.dll
-C:\Users\ochampion\source\repos\MyNugetPackage\MyNugetPackage\obj\Debug\MyNugetPackage.pdb
-C:\Users\ochampion\source\repos\MyNugetPackage\MyNugetPackage\bin\Debug\MyLib.dll
-C:\Users\ochampion\source\repos\MyNugetPackage\MyNugetPackage\bin\Debug\MyLib.pdb
-C:\Users\ochampion\source\repos\MyNugetPackage\MyNugetPackage\obj\Debug\MyNugetPackage.csproj.CopyComplete
